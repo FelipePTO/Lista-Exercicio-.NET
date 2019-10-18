@@ -1,0 +1,8 @@
+A funções recursívas normalmente geram códigos menores, mas são recomendadas para função que naturalmente são recursivas.
+
+Um problema em função recursiva é adicionar um registro uma pilha de chamadas de função que pode causar overflow.
+Este problema ocorre se a recursão ocorrer muitas vezes.
+Muito comum em linguagens de baixo nível.
+
+
+Enquanto o loop executa o mesmo bloco de função e somente incrementa um registrador com o número da interação corrente

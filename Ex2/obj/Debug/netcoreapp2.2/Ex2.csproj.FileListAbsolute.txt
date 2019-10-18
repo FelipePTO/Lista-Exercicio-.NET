@@ -1,0 +1,11 @@
+/home/felipe/Desenvolvimento/reply/Ex2/bin/Debug/netcoreapp2.2/Ex2.deps.json
+/home/felipe/Desenvolvimento/reply/Ex2/bin/Debug/netcoreapp2.2/Ex2.runtimeconfig.json
+/home/felipe/Desenvolvimento/reply/Ex2/bin/Debug/netcoreapp2.2/Ex2.runtimeconfig.dev.json
+/home/felipe/Desenvolvimento/reply/Ex2/bin/Debug/netcoreapp2.2/Ex2.dll
+/home/felipe/Desenvolvimento/reply/Ex2/bin/Debug/netcoreapp2.2/Ex2.pdb
+/home/felipe/Desenvolvimento/reply/Ex2/obj/Debug/netcoreapp2.2/Ex2.csprojAssemblyReference.cache
+/home/felipe/Desenvolvimento/reply/Ex2/obj/Debug/netcoreapp2.2/Ex2.csproj.CoreCompileInputs.cache
+/home/felipe/Desenvolvimento/reply/Ex2/obj/Debug/netcoreapp2.2/Ex2.AssemblyInfoInputs.cache
+/home/felipe/Desenvolvimento/reply/Ex2/obj/Debug/netcoreapp2.2/Ex2.AssemblyInfo.cs
+/home/felipe/Desenvolvimento/reply/Ex2/obj/Debug/netcoreapp2.2/Ex2.dll
+/home/felipe/Desenvolvimento/reply/Ex2/obj/Debug/netcoreapp2.2/Ex2.pdb

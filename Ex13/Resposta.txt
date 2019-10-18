@@ -1,0 +1,3 @@
+Template são arquivos HTML com um formato pré-determinado em que os dados são carregados por Ajax
+
+Um exemplo de template é um corpo de uma mensagem de agradecimento em que o nome do usuário vai ser carregado dinamicamente.

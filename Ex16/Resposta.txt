@@ -1,0 +1,11 @@
+
+PerCall
+Uma instancia é criada para cada chamada até de um mesmo cliente
+
+
+PerSession
+Uma instancia é criada por sessão de cliente
+
+
+Single
+Uma instancia é chamada para todas as requisições do mesmo cliente ou não

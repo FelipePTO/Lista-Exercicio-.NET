@@ -1,0 +1,10 @@
+PartialView
+    PartialView são marcações do Razor que define que somente aquele trecho de código poderá ser atualizado sem afetar a página inteira.
+    Uma aplicação de um PartialView é um widget na pagina, por exemplo um gráfico de bolsa de valores.
+    As informações do gráfico vão atualizar sem atualizar a página inteira.
+
+View:
+
+    View por sua vez é a tela que vai retornar para o usuário. Essa view vai depender do que o controller definir.
+
+
